@@ -17,7 +17,6 @@ I enjoy learning by building projects and experimenting with new technologies. M
 * 🗄️ Learning **Database Integration with Python**
 * 🌐 Interested in **Web & Desktop Applications**
 * 📚 Knowledge of **Data Structures & Algorithms**
-* 🧩 Knowledge of **Object-Oriented Programming**
 * 🔬 Exploring **research-oriented AI/ML projects**
 * 💡 I believe the best way to learn programming is by **building things**
 
