@@ -119,33 +119,6 @@ A web application that displays upcoming space launches using a public space API
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Python
- ├── Advanced Python
- ├── OOP
- ├── DSA
- ├── NumPy
- ├── Pandas
- ├── Matplotlib
- └── OpenCV
-
-AI / ML
- ├── Machine Learning
- ├── Computer Vision
- ├── Face Recognition
- └── Practical AI Applications
-
-Development
- ├── SQL & Databases
- ├── Flask / Django
- ├── Git & GitHub
- └── Desktop Applications
-```
-
----
-
 ## 🧠 Research & Learning Interests
 
 I'm particularly interested in exploring how technology can solve **real-world problems**.
